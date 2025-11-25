@@ -1,0 +1,2 @@
+[console_scripts]
+dyna = dyna_automator.cli.main:app
